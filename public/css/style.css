@@ -1,0 +1,186 @@
+@font-face {
+    font-family: "myStyle";
+    src: url("../../Fonts/Gontserrat-Medium.ttf");
+}
+
+body{
+    background-color: rgb(232, 230, 230);
+}
+ 
+.panel{
+    background-color: rgb(255, 255, 255);
+    padding-left: 100px;
+    padding-top: 20px;
+    margin: 100px;
+    width: 80%;
+    margin-top: 30px;
+}
+
+.panel_serv{
+    background-color: rgb(255, 255, 255);
+    padding-left: 50px;
+    padding-bottom: 50px;
+    padding-top: 20px;
+    width: 80%;
+    margin: 130px;
+    margin-top: 10px;
+    margin-bottom: 800px;
+}
+
+.panel_der_pen{
+    background-color: rgb(255, 255, 255);
+    padding: 20px;
+    padding-bottom: 30px;
+    padding-top: 10px;
+    width: 81.5%;
+    margin: 135px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.panel_der_pen_1{
+    background-color: rgb(255, 255, 255);
+    padding: 30px;
+    padding-bottom: 30px;
+    padding-top: 10px;
+    width: 80%;
+    margin: 135px;
+    margin-top: 10px;
+}
+
+.panel_nosotros{
+    background-color: rgb(255, 255, 255);
+    padding: 20px;
+    width: 80%;
+    margin: 130px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+.panel_nosotros1{
+    background-color: rgb(255, 255, 255);
+    padding: 20px;
+    width: 80%;
+    margin: 130px;
+    margin-top: 5px;
+}
+
+.panel_contacto{
+    background-color: rgb(255, 255, 255);
+    padding: 20px;
+    width: 70%;
+    margin: 210px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.panel_contacto1{
+    background-color: rgb(255, 255, 255);
+    padding: 20px;
+    width: 70%;
+    margin: 210px;
+    margin-top: 5px;
+}
+
+body{
+    font-family: "myStyle";
+}
+
+h2{
+    color: rgb(27, 27, 234);
+}
+
+.inicio_pagina{
+    background-color: rgb(42, 42, 203);
+    border:solid lightslategray;
+    border-radius: 5px;
+    color: aliceblue;
+    text-align: center;
+    padding: 20px;
+    padding-bottom: 70px;
+}
+
+.pie_pagina{
+    background-color:  rgb(42, 42, 203);
+    border: solid lightslategray;
+    border-radius: 5px;
+    color: aliceblue;
+    text-align: center;
+    padding: 30px;
+}
+.opciones a{
+    color: aliceblue;
+    padding: 10px;
+    padding-bottom: 20px;
+}
+.opciones a:hover{
+    color: rgb(61, 165, 75); 
+}
+
+li a{
+    color: rgb(2, 2, 2);
+}
+
+li a:hover{
+    color: rgb(84, 94, 235);
+}
+
+
+.horarios{
+    width: 100%;
+    max-width: 500px;
+    border-collapse: collapse;
+}
+
+
+.horarios th{
+    background-color: rgb(142, 173, 234);
+    padding: 15px 200px;
+}
+
+.horarios td{
+    padding: 15px;
+}
+
+li {
+    padding: 5px;
+}
+
+.name input{
+    padding-bottom: 20px;
+    width: 100%;
+    margin-bottom: 50px;
+}
+
+.email input{
+    padding-bottom: 20px;
+    width: 100%;
+    margin-bottom: 50px;
+}
+
+.textarea textarea{
+    padding-bottom: 20px;
+    width: 100%;
+    margin-bottom: 50px;
+}
+
+.btn_asesoria input[type="submit"]{
+    background-color: blue;
+    color: aliceblue;
+    text-align: center;
+    padding: 10px;
+    width: 100%;
+}
+
+.forms textarea{
+    padding-bottom: 15px;
+    padding-right: 500px;
+}
+
+.panel_nosotros img{
+    padding-left: 300px;
+}
+
+ 
+
+
